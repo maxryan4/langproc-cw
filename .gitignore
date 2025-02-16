@@ -11,3 +11,5 @@ build/
 coverage/
 *.d
 *.pyc
+
+.DS_Store
